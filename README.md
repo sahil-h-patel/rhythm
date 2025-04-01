@@ -1,5 +1,6 @@
 Future backend structure?
 
+```
 schuffle/
 │── events/
 │   │── migrations/
@@ -19,3 +20,4 @@ schuffle/
 │   │── models.py
 │   │── views.py
 │   │── urls.py
+```
